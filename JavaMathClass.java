@@ -30,6 +30,8 @@ public class JavaMathClass {
 		
 		System.out.println("Ceil it: " + Math.ceil(num)); //result 13
 		
+		System.out.println(Math.PI);
+		
 		//Math class has huge huge source...This is good
 	}
 }
